@@ -1,7 +1,8 @@
-"Attribute";"Frage";"Antwort1";"Antwort2";"Antwort2"
-;"dunda";"x1 gives x2 to x3 (without payment)";"selbri";
-;"pelxu";"x1 is yellow";"selbri";
-;"zdani";"x1 is a home of x2";"selbri";
-;"mi";"I or we – the one ot those who are speaking";"sumti";
-;"ti";"This – a closething or event nearby which can be pointed to by the speaker";;
-;"do";"You – the one or those who are being spoken to";;
+"Attribute";"Frage";"Antwort1";"Antwort2";"Antwort3"
+;"vecnu";"x1 sells x2 tox3 for price x4";"selbri";
+;"zo'e";"something;fills a sumti place withsomething, butdoesnot state what";;
+;"fa";"Tags the following sumti as filling x1";;
+;"fe";"Tags the following sumti as filling x2";;
+;"fi";"Tags the following sumti as filling x3";;
+;"fo";"Tags the following sumti as filling x4";;
+;"fu";"Tags the following sumti as filling x5";;
